@@ -7,14 +7,15 @@
 > ###### H6
 # 😊
 
+`small block`
 ```
 big
 block
 ```
-* **1st**
-+ > *2nd*
-- >> ~~3rd~~
+* **1st 粗體**
++ > *2nd 斜體*
+- >> ~~3rd 刪除線~~
 
 
-[elearning](https://elearning.nkust.edu.tw/mooc/index.php)
+[NKUST_elearning](https://elearning.nkust.edu.tw/mooc/index.php)
 ![NKUST](NKUST_Logo.svg.png)
